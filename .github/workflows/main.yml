@@ -20,7 +20,9 @@ jobs:
         node-version: '20'
 
     - name: Run script
-      run: node main.js
+      run: |
+        npm install
+        node main.js
       
     - name: Set up Git
       run: |
