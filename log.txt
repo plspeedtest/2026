@@ -8152,3 +8152,16 @@
 [URL] Time: 2516ms | Speed: 0.00      B/s | http://pl.turtlesim.com
 ==================================================
 
+========== Test Batch: 1/12/2026, 3:16:00 AM ==========
+[System Task] P1 (Login) | Status: Success | Time: 2412ms
+--------------------------------------------------
+[URL] Time: 1759ms | Speed: 27927.23  B/s | http://nlm-api-cn.turtlesim.com/Users
+[URL] Time: 1649ms | Speed: 27907.22  B/s | http://physics-api-cn.turtlesim.com/Users
+[URL] Time: 1553ms | Speed: 169.35    B/s | http://physics-api-cn.turtlesim.com/Contents
+[URL] Time: 681 ms | Speed: 0.00      B/s | http://physics-api.turtlesim.com/Users
+[URL] Time: 672 ms | Speed: 0.00      B/s | http://nlm-api.turtlesim.com/Users
+[URL] Status: FAILED | Time: 5028ms | http://tu.netlogo.org (Err: timeout of 5000ms exceeded)
+[URL] Status: FAILED | Time: 5028ms | http://tu.netlogo.org (Err: timeout of 5000ms exceeded)
+[URL] Time: 2689ms | Speed: 0.00      B/s | http://pl.turtlesim.com
+==================================================
+
