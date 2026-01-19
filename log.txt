@@ -12938,3 +12938,16 @@
 [URL] Time: 2197ms | Speed: 0.00      B/s | http://pl.turtlesim.com
 ==================================================
 
+========== Test Batch: 1/19/2026, 1:04:18 AM ==========
+[System Task] P1 (Login) | Status: Success | Time: 2352ms
+--------------------------------------------------
+[URL] Time: 1596ms | Speed: 31892.23  B/s | http://nlm-api-cn.turtlesim.com/Users
+[URL] Time: 1567ms | Speed: 27899.17  B/s | http://physics-api-cn.turtlesim.com/Users
+[URL] Time: 1241ms | Speed: 211.93    B/s | http://physics-api-cn.turtlesim.com/Contents
+[URL] Time: 413 ms | Speed: 0.00      B/s | http://physics-api.turtlesim.com/Users
+[URL] Time: 431 ms | Speed: 0.00      B/s | http://nlm-api.turtlesim.com/Users
+[URL] Time: 2494ms | Speed: 0.00      B/s | http://tu.netlogo.org
+[URL] Time: 2458ms | Speed: 0.00      B/s | http://tu.netlogo.org
+[URL] Time: 2117ms | Speed: 0.00      B/s | http://pl.turtlesim.com
+==================================================
+
