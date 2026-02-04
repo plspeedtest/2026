@@ -22028,3 +22028,17 @@
 [URL] Time: 2025ms | Speed: 0.00      B/s | http://pl.turtlesim.com
 ==================================================
 
+========== Test Batch: 2/4/2026, 10:22:48 PM ==========
+[System Task] P1 (Login) | Status: Failed | Time: 8043ms
+  Error: timeout of 8000ms exceeded
+--------------------------------------------------
+[URL] Time: 1176ms | Speed: 223.64    B/s | http://physics-api-cn.turtlesim.com/Contents
+[URL] Status: FAILED | Time: 408ms | http://physics-api.turtlesim.com/Users (Err: Request failed with status code 503)
+[URL] Status: FAILED | Time: 5028ms | http://physics-api-cn.turtlesim.com/Users (Err: timeout of 5000ms exceeded)
+[URL] Status: FAILED | Time: 5028ms | http://nlm-api-cn.turtlesim.com/Users (Err: timeout of 5000ms exceeded)
+[URL] Status: FAILED | Time: 5029ms | http://nlm-api.turtlesim.com/Users (Err: timeout of 5000ms exceeded)
+[URL] Time: 2155ms | Speed: 0.00      B/s | http://tu.netlogo.org
+[URL] Time: 2113ms | Speed: 0.00      B/s | http://tu.netlogo.org
+[URL] Time: 2150ms | Speed: 0.00      B/s | http://pl.turtlesim.com
+==================================================
+
