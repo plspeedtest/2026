@@ -23411,3 +23411,16 @@
 [URL] Time: 2127ms | Speed: 0.00      B/s | http://pl.turtlesim.com
 ==================================================
 
+========== Test Batch: 2/8/2026, 5:44:06 AM ==========
+[System Task] P1 (Login) | Status: Success | Time: 6363ms
+--------------------------------------------------
+[URL] Time: 1010ms | Speed: 260.40    B/s | http://physics-api-cn.turtlesim.com/Contents
+[URL] Time: 461 ms | Speed: 0.00      B/s | http://physics-api.turtlesim.com/Users
+[URL] Status: FAILED | Time: 9975ms | http://physics-api-cn.turtlesim.com/Users (Err: stream has been aborted)
+[URL] Status: FAILED | Time: 18297ms | http://nlm-api-cn.turtlesim.com/Users (Err: stream has been aborted)
+[URL] Time: 522 ms | Speed: 0.00      B/s | http://nlm-api.turtlesim.com/Users
+[URL] Time: 2566ms | Speed: 0.00      B/s | http://tu.netlogo.org
+[URL] Time: 2574ms | Speed: 0.00      B/s | http://tu.netlogo.org
+[URL] Time: 2325ms | Speed: 0.00      B/s | http://pl.turtlesim.com
+==================================================
+
