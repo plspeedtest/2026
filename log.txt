@@ -32502,3 +32502,16 @@
 [URL] Status: FAILED | Time: 1358ms | http://pl.turtlesim.com (Err: certificate has expired)
 ==================================================
 
+========== Test Batch: 3/2/2026, 10:28:05 AM ==========
+[System Task] P1 (Login) | Status: Success | Time: 1697ms
+--------------------------------------------------
+[URL] Time: 1240ms | Speed: 40575.81  B/s | http://nlm-api-cn.turtlesim.com/Users
+[URL] Time: 1213ms | Speed: 39855.73  B/s | http://physics-api-cn.turtlesim.com/Users
+[URL] Time: 840 ms | Speed: 313.10    B/s | http://physics-api-cn.turtlesim.com/Contents
+[URL] Time: 294 ms | Speed: 0.00      B/s | http://physics-api.turtlesim.com/Users
+[URL] Time: 342 ms | Speed: 0.00      B/s | http://nlm-api.turtlesim.com/Users
+[URL] Status: FAILED | Time: 758ms | http://tu.netlogo.org (Err: certificate has expired)
+[URL] Status: FAILED | Time: 760ms | http://tu.netlogo.org (Err: certificate has expired)
+[URL] Status: FAILED | Time: 792ms | http://pl.turtlesim.com (Err: certificate has expired)
+==================================================
+
