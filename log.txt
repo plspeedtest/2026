@@ -35352,3 +35352,16 @@
 [URL] Status: FAILED | Time: 1635ms | http://pl.turtlesim.com (Err: Request failed with status code 502)
 ==================================================
 
+========== Test Batch: 3/8/2026, 6:57:12 PM ==========
+[System Task] P1 (Login) | Status: Success | Time: 2771ms
+--------------------------------------------------
+[URL] Time: 1407ms | Speed: 37577.11  B/s | http://nlm-api-cn.turtlesim.com/Users
+[URL] Time: 1563ms | Speed: 29461.29  B/s | http://physics-api-cn.turtlesim.com/Users
+[URL] Time: 1126ms | Speed: 233.57    B/s | http://physics-api-cn.turtlesim.com/Contents
+[URL] Time: 357 ms | Speed: 0.00      B/s | http://physics-api.turtlesim.com/Users
+[URL] Time: 369 ms | Speed: 0.00      B/s | http://nlm-api.turtlesim.com/Users
+[URL] Time: 1763ms | Speed: 0.00      B/s | http://tu.netlogo.org
+[URL] Time: 1759ms | Speed: 0.00      B/s | http://tu.netlogo.org
+[URL] Status: FAILED | Time: 1644ms | http://pl.turtlesim.com (Err: Request failed with status code 502)
+==================================================
+
