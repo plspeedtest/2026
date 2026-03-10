@@ -36162,3 +36162,16 @@
 [URL] Status: FAILED | Time: 5027ms | http://pl.turtlesim.com (Err: timeout of 5000ms exceeded)
 ==================================================
 
+========== Test Batch: 3/10/2026, 7:06:43 PM ==========
+[System Task] P1 (Login) | Status: Success | Time: 2202ms
+--------------------------------------------------
+[URL] Time: 1326ms | Speed: 39365.76  B/s | http://nlm-api-cn.turtlesim.com/Users
+[URL] Time: 1786ms | Speed: 25561.59  B/s | http://physics-api-cn.turtlesim.com/Users
+[URL] Time: 1066ms | Speed: 246.72    B/s | http://physics-api-cn.turtlesim.com/Contents
+[URL] Time: 311 ms | Speed: 0.00      B/s | http://physics-api.turtlesim.com/Users
+[URL] Time: 298 ms | Speed: 0.00      B/s | http://nlm-api.turtlesim.com/Users
+[URL] Time: 1563ms | Speed: 0.00      B/s | http://tu.netlogo.org
+[URL] Time: 1620ms | Speed: 0.00      B/s | http://tu.netlogo.org
+[URL] Time: 2910ms | Speed: 0.00      B/s | http://pl.turtlesim.com
+==================================================
+
