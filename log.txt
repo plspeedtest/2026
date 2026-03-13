@@ -37130,3 +37130,17 @@
 [URL] Time: 2133ms | Speed: 0.00      B/s | http://pl.turtlesim.com
 ==================================================
 
+========== Test Batch: 3/13/2026, 8:29:09 AM ==========
+[System Task] P1 (Login) | Status: Failed | Time: 10568ms
+  Error: stream has been aborted
+--------------------------------------------------
+[URL] Time: 1416ms | Speed: 36240.82  B/s | http://nlm-api-cn.turtlesim.com/Users
+[URL] Time: 1435ms | Speed: 31319.86  B/s | http://physics-api-cn.turtlesim.com/Users
+[URL] Time: 302 ms | Speed: 0.00      B/s | http://physics-api.turtlesim.com/Users
+[URL] Time: 413 ms | Speed: 0.00      B/s | http://nlm-api.turtlesim.com/Users
+[URL] Time: 1604ms | Speed: 0.00      B/s | http://tu.netlogo.org
+[URL] Time: 1602ms | Speed: 0.00      B/s | http://tu.netlogo.org
+[URL] Time: 1993ms | Speed: 0.00      B/s | http://pl.turtlesim.com
+[URL] Status: FAILED | Time: 5034ms | http://physics-api-cn.turtlesim.com/Contents (Err: timeout of 5000ms exceeded)
+==================================================
+
