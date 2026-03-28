@@ -42973,3 +42973,16 @@
 [URL] Time: 1646ms | Speed: 0.00      B/s | http://pl.turtlesim.com
 ==================================================
 
+========== Test Batch: 3/28/2026, 5:52:22 PM ==========
+[System Task] P1 (Login) | Status: Success | Time: 1953ms
+--------------------------------------------------
+[URL] Time: 1411ms | Speed: 35421.69  B/s | http://nlm-api-cn.turtlesim.com/Users
+[URL] Time: 1461ms | Speed: 30261.46  B/s | http://physics-api-cn.turtlesim.com/Users
+[URL] Time: 1591ms | Speed: 165.30    B/s | http://physics-api-cn.turtlesim.com/Contents
+[URL] Time: 299 ms | Speed: 0.00      B/s | http://physics-api.turtlesim.com/Users
+[URL] Time: 327 ms | Speed: 0.00      B/s | http://nlm-api.turtlesim.com/Users
+[URL] Status: FAILED | Time: 1618ms | http://tu.netlogo.org (Err: Request failed with status code 503)
+[URL] Status: FAILED | Time: 1613ms | http://tu.netlogo.org (Err: Request failed with status code 503)
+[URL] Time: 2009ms | Speed: 0.00      B/s | http://pl.turtlesim.com
+==================================================
+
