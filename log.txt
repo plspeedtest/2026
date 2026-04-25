@@ -51026,3 +51026,16 @@
 [URL] Time: 1913ms | Speed: 0.00      B/s | http://pl.turtlesim.com
 ==================================================
 
+========== Test Batch: 4/25/2026, 11:10:43 AM ==========
+[System Task] P1 (Login) | Status: Success | Time: 2119ms
+--------------------------------------------------
+[URL] Time: 1355ms | Speed: 36259.78  B/s | http://nlm-api-cn.turtlesim.com/Users
+[URL] Time: 1348ms | Speed: 33824.18  B/s | http://physics-api-cn.turtlesim.com/Users
+[URL] Time: 1159ms | Speed: 226.92    B/s | http://physics-api-cn.turtlesim.com/Contents
+[URL] Time: 399 ms | Speed: 0.00      B/s | http://physics-api.turtlesim.com/Users
+[URL] Time: 428 ms | Speed: 0.00      B/s | http://nlm-api.turtlesim.com/Users
+[URL] Status: FAILED | Time: 1809ms | http://tu.netlogo.org (Err: Request failed with status code 503)
+[URL] Status: FAILED | Time: 1762ms | http://tu.netlogo.org (Err: Request failed with status code 503)
+[URL] Time: 2134ms | Speed: 0.00      B/s | http://pl.turtlesim.com
+==================================================
+
