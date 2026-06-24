@@ -60306,3 +60306,16 @@
 [URL] Time: 2257ms | Speed: 0.00      B/s | http://pl.turtlesim.com
 ==================================================
 
+========== Test Batch: 6/24/2026, 4:32:35 AM ==========
+[System Task] P1 (Login) | Status: Success | Time: 1973ms
+--------------------------------------------------
+[URL] Time: 1312ms | Speed: 40278.96  B/s | http://nlm-api-cn.turtlesim.com/Users
+[URL] Time: 2270ms | Speed: 19692.51  B/s | http://physics-api-cn.turtlesim.com/Users
+[URL] Time: 558 ms | Speed: 0.00      B/s | http://physics-api.turtlesim.com/Users
+[URL] Time: 1637ms | Speed: 0.00      B/s | http://nlm-api.turtlesim.com/Users
+[URL] Time: 1996ms | Speed: 0.00      B/s | http://tu.netlogo.org
+[URL] Time: 2078ms | Speed: 0.00      B/s | http://tu.netlogo.org
+[URL] Time: 2049ms | Speed: 0.00      B/s | http://pl.turtlesim.com
+[URL] Status: FAILED | Time: 5032ms | http://physics-api-cn.turtlesim.com/Contents (Err: timeout of 5000ms exceeded)
+==================================================
+
