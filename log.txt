@@ -79792,3 +79792,16 @@
 [URL] Time: 3236ms | Speed: 0.00      B/s | http://pl.turtlesim.com
 ==================================================
 
+========== Test Batch: 9/25/2026, 1:54:00 AM ==========
+[System Task] P1 (Login) | Status: Success | Time: 2187ms
+--------------------------------------------------
+[URL] Time: 1308ms | Speed: 41821.10  B/s | http://nlm-api-cn.turtlesim.com/Users
+[URL] Time: 1297ms | Speed: 33790.29  B/s | http://physics-api-cn.turtlesim.com/Users
+[URL] Time: 1169ms | Speed: 224.98    B/s | http://physics-api-cn.turtlesim.com/Contents
+[URL] Time: 593 ms | Speed: 0.00      B/s | http://physics-api.turtlesim.com/Users
+[URL] Time: 637 ms | Speed: 0.00      B/s | http://nlm-api.turtlesim.com/Users
+[URL] Time: 2130ms | Speed: 0.00      B/s | http://tu.netlogo.org
+[URL] Time: 2084ms | Speed: 0.00      B/s | http://tu.netlogo.org
+[URL] Status: FAILED | Time: 3862ms | http://pl.turtlesim.com (Err: Request failed with status code 500)
+==================================================
+
