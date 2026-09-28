@@ -80078,3 +80078,16 @@
 [URL] Time: 4201ms | Speed: 0.00      B/s | http://pl.turtlesim.com
 ==================================================
 
+========== Test Batch: 9/28/2026, 11:57:37 PM ==========
+[System Task] P1 (Login) | Status: Success | Time: 2298ms
+--------------------------------------------------
+[URL] Time: 1413ms | Speed: 35837.23  B/s | http://nlm-api-cn.turtlesim.com/Users
+[URL] Time: 1343ms | Speed: 32247.21  B/s | http://physics-api-cn.turtlesim.com/Users
+[URL] Time: 1168ms | Speed: 225.17    B/s | http://physics-api-cn.turtlesim.com/Contents
+[URL] Time: 428 ms | Speed: 0.00      B/s | http://physics-api.turtlesim.com/Users
+[URL] Time: 450 ms | Speed: 0.00      B/s | http://nlm-api.turtlesim.com/Users
+[URL] Status: FAILED | Time: 5034ms | http://tu.netlogo.org (Err: timeout of 5000ms exceeded)
+[URL] Time: 2127ms | Speed: 0.00      B/s | http://tu.netlogo.org
+[URL] Time: 3164ms | Speed: 0.00      B/s | http://pl.turtlesim.com
+==================================================
+
