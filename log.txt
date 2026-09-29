@@ -80130,3 +80130,16 @@
 [URL] Status: FAILED | Time: 4753ms | http://pl.turtlesim.com (Err: Request failed with status code 500)
 ==================================================
 
+========== Test Batch: 9/29/2026, 9:01:50 PM ==========
+[System Task] P1 (Login) | Status: Success | Time: 1992ms
+--------------------------------------------------
+[URL] Time: 1370ms | Speed: 37376.64  B/s | http://nlm-api-cn.turtlesim.com/Users
+[URL] Time: 1213ms | Speed: 35785.66  B/s | http://physics-api-cn.turtlesim.com/Users
+[URL] Time: 990 ms | Speed: 265.66    B/s | http://physics-api-cn.turtlesim.com/Contents
+[URL] Time: 488 ms | Speed: 0.00      B/s | http://physics-api.turtlesim.com/Users
+[URL] Time: 520 ms | Speed: 0.00      B/s | http://nlm-api.turtlesim.com/Users
+[URL] Time: 3071ms | Speed: 0.00      B/s | http://tu.netlogo.org
+[URL] Time: 1997ms | Speed: 0.00      B/s | http://tu.netlogo.org
+[URL] Status: FAILED | Time: 5041ms | http://pl.turtlesim.com (Err: timeout of 5000ms exceeded)
+==================================================
+
