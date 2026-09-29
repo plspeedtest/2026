@@ -80091,3 +80091,16 @@
 [URL] Time: 3164ms | Speed: 0.00      B/s | http://pl.turtlesim.com
 ==================================================
 
+========== Test Batch: 9/29/2026, 4:01:02 AM ==========
+[System Task] P1 (Login) | Status: Success | Time: 2288ms
+--------------------------------------------------
+[URL] Time: 1403ms | Speed: 36224.52  B/s | http://nlm-api-cn.turtlesim.com/Users
+[URL] Time: 1364ms | Speed: 31750.73  B/s | http://physics-api-cn.turtlesim.com/Users
+[URL] Time: 2137ms | Speed: 123.07    B/s | http://physics-api-cn.turtlesim.com/Contents
+[URL] Time: 387 ms | Speed: 0.00      B/s | http://physics-api.turtlesim.com/Users
+[URL] Time: 396 ms | Speed: 0.00      B/s | http://nlm-api.turtlesim.com/Users
+[URL] Time: 2303ms | Speed: 0.00      B/s | http://tu.netlogo.org
+[URL] Time: 2164ms | Speed: 0.00      B/s | http://tu.netlogo.org
+[URL] Time: 3194ms | Speed: 0.00      B/s | http://pl.turtlesim.com
+==================================================
+
