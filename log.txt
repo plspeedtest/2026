@@ -81378,3 +81378,16 @@
 [URL] Time: 1942ms | Speed: 0.00      B/s | http://pl.turtlesim.com
 ==================================================
 
+========== Test Batch: 10/18/2026, 9:17:31 AM ==========
+[System Task] P1 (Login) | Status: Success | Time: 2151ms
+--------------------------------------------------
+[URL] Time: 1347ms | Speed: 41073.50  B/s | http://nlm-api-cn.turtlesim.com/Users
+[URL] Time: 1289ms | Speed: 36757.18  B/s | http://physics-api-cn.turtlesim.com/Users
+[URL] Time: 1055ms | Speed: 249.29    B/s | http://physics-api-cn.turtlesim.com/Contents
+[URL] Time: 301 ms | Speed: 0.00      B/s | http://physics-api.turtlesim.com/Users
+[URL] Time: 326 ms | Speed: 0.00      B/s | http://nlm-api.turtlesim.com/Users
+[URL] Status: FAILED | Time: 1691ms | http://tu.netlogo.org (Err: Request failed with status code 429)
+[URL] Time: 1987ms | Speed: 0.00      B/s | http://tu.netlogo.org
+[URL] Time: 1988ms | Speed: 0.00      B/s | http://pl.turtlesim.com
+==================================================
+
